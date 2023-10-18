@@ -17,3 +17,9 @@ To use this Sudoku solver, follow these steps:
 1. Modify the grid variable to represent the Sudoku puzzle you want to solve. Use 0 for empty cells and fill in the initial values.
 2. Run the script in a Python environment.
 3. The script will attempt to solve the Sudoku puzzle and print the solution if one exists.
+
+## Contributing
+Feel free to contribute to this project by improving the code, adding features, or providing documentation enhancements. Just create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
